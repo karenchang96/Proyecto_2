@@ -1,0 +1,4 @@
+[core]
+    remote = s3-remote-proyecto
+['remote "s3-remote-proyecto"']
+    url = s3://data-remote-repo
