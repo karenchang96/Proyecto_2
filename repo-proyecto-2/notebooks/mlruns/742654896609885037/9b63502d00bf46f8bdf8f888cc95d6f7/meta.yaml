@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/MARINHO/Desktop/Product_Development/Proyectos/Proyecto_2/repo-proyecto-2/notebooks/mlruns/742654896609885037/9b63502d00bf46f8bdf8f888cc95d6f7/artifacts
+end_time: 1734665585437
+entry_point_name: ''
+experiment_id: '742654896609885037'
+lifecycle_stage: active
+run_id: 9b63502d00bf46f8bdf8f888cc95d6f7
+run_name: nimble-cat-232
+run_uuid: 9b63502d00bf46f8bdf8f888cc95d6f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734665568554
+status: 3
+tags: []
+user_id: MARINHO
