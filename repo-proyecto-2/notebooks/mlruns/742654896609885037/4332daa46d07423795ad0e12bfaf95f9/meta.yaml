@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/MARINHO/Desktop/Product_Development/Proyectos/Proyecto_2/repo-proyecto-2/notebooks/mlruns/742654896609885037/4332daa46d07423795ad0e12bfaf95f9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '742654896609885037'
+lifecycle_stage: active
+run_id: 4332daa46d07423795ad0e12bfaf95f9
+run_name: upset-shark-219
+run_uuid: 4332daa46d07423795ad0e12bfaf95f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734670921503
+status: 1
+tags: []
+user_id: MARINHO

@@ -1,5 +1,5 @@
 artifact_uri: file:///Users/MARINHO/Desktop/Product_Development/Proyectos/Proyecto_2/repo-proyecto-2/notebooks/mlruns/742654896609885037/0cea6ea1890345fa909c76ea1e688733/artifacts
-end_time: null
+end_time: 1734670794845
 entry_point_name: ''
 experiment_id: '742654896609885037'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1734667069910
-status: 1
+status: 3
 tags: []
 user_id: MARINHO

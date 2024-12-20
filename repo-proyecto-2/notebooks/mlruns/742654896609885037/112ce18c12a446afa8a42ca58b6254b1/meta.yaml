@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/MARINHO/Desktop/Product_Development/Proyectos/Proyecto_2/repo-proyecto-2/notebooks/mlruns/742654896609885037/112ce18c12a446afa8a42ca58b6254b1/artifacts
+end_time: 1734670891767
+entry_point_name: ''
+experiment_id: '742654896609885037'
+lifecycle_stage: active
+run_id: 112ce18c12a446afa8a42ca58b6254b1
+run_name: crawling-goose-503
+run_uuid: 112ce18c12a446afa8a42ca58b6254b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734670866659
+status: 3
+tags: []
+user_id: MARINHO
